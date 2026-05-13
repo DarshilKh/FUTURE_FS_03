@@ -208,7 +208,7 @@ export default function Menu() {
             · All prices inclusive of taxes
           </p>
           <a
-            href="https://www.zomato.com"
+            href="https://www.zomato.com/ncr/cafe-crew-brew-3-netaji-subhash-place-new-delhi"
             target="_blank"
             rel="noopener noreferrer"
             className="menu-footer-link"
