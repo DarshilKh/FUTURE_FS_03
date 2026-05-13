@@ -60,7 +60,6 @@ React 19          — UI layer
 Vite 6            — Build tool (sub-second HMR)
 Framer Motion     — Page-level and scroll-triggered animations
 Tailwind CSS v4   — Utility styling
-EmailJS           — Contact/reservation form (no backend needed)
 Vercel            — Deployment + CDN
 ```
 
