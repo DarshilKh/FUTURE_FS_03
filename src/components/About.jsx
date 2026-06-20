@@ -101,7 +101,7 @@ export default function About() {
           >
             <div className="about-image-wrap">
               <img
-                src="/coffee-beans.png"
+                src="/coffee-beans1.jpg"
                 alt="Hand-roasted coffee beans"
                 className="about-image"
               />
